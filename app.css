@@ -1,0 +1,11 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+h1 {
+  color: indianred;
+}
+
+h2 {
+  color: green;
+}
